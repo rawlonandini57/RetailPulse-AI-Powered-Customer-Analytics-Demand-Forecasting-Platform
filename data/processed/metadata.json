@@ -1,0 +1,25 @@
+{
+  "dataset": "Online Retail II",
+  "currency": "GBP",
+  "last_complete_sales_date": "2011-12-08",
+  "forecast_model": "Four-week weekday average",
+  "forecast_start": "2011-12-09",
+  "forecast_end": "2012-01-07",
+  "segmentation_status": "Provisional two-cluster model",
+  "churn_prediction_date": "2011-09-01",
+  "churn_definition": "No merchandise purchase in the following 90 days",
+  "inventory_assumptions": {
+    "lead_time_days": 7,
+    "review_period_days": 7,
+    "buffer_fraction": 0.2
+  },
+  "limitations": [
+    "Historical analytics, not live data.",
+    "Sales values are gross merchandise purchases before returns.",
+    "Within-sheet duplicate candidates were retained.",
+    "Days without recorded purchases were treated as zero sales.",
+    "Churn scores are historical and have not been calibrated.",
+    "Inventory outputs are scenarios, not validated ordering advice.",
+    "Stock-on-hand, incoming orders and backorders are unknown unless supplied."
+  ]
+}

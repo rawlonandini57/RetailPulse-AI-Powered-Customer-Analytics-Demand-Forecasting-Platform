@@ -1,0 +1,21 @@
+StockCode,LeadTimeDays,ReviewPeriodDays,LeadTimeForecastUnits,ProtectionPeriodForecastUnits,BufferUnits,TargetInventoryPosition,StockOnHand,OnOrder,Backorders,InventoryPosition,SuggestedOrderUnits,Status
+22197,7,7,3474.75,6949.5,1389.9,8340,,,,,,Missing inventory inputs
+84077,7,7,1048.0,2096.0,419.20000000000005,2516,,,,,,Missing inventory inputs
+85099B,7,7,984.25,1968.5,393.70000000000005,2363,,,,,,Missing inventory inputs
+23084,7,7,3673.25,7346.5,1469.3000000000002,8816,,,,,,Missing inventory inputs
+21915,7,7,375.25,750.5,150.1,901,,,,,,Missing inventory inputs
+84879,7,7,1028.0,2056.0,411.20000000000005,2468,,,,,,Missing inventory inputs
+22952,7,7,919.5,1839.0,367.8,2207,,,,,,Missing inventory inputs
+21212,7,7,468.0,936.0,187.20000000000002,1124,,,,,,Missing inventory inputs
+22492,7,7,419.0,838.0,167.60000000000002,1006,,,,,,Missing inventory inputs
+23203,7,7,680.25,1360.5,272.1,1633,,,,,,Missing inventory inputs
+22086,7,7,1787.25,3574.5,714.9000000000001,4290,,,,,,Missing inventory inputs
+22386,7,7,360.0,720.0,144.0,864,,,,,,Missing inventory inputs
+85123A,7,7,947.5,1895.0,379.0,2274,,,,,,Missing inventory inputs
+20971,7,7,315.75,631.5,126.30000000000001,758,,,,,,Missing inventory inputs
+23310,7,7,532.0,1064.0,212.8,1277,,,,,,Missing inventory inputs
+22178,7,7,563.75,1127.5,225.5,1353,,,,,,Missing inventory inputs
+17003,7,7,315.0,630.0,126.0,756,,,,,,Missing inventory inputs
+23344,7,7,860.25,1720.5,344.1,2065,,,,,,Missing inventory inputs
+21977,7,7,338.0,676.0,135.20000000000002,812,,,,,,Missing inventory inputs
+23199,7,7,257.5,515.0,103.0,618,,,,,,Missing inventory inputs

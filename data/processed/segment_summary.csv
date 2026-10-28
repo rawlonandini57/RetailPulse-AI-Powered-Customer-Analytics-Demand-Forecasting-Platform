@@ -1,0 +1,3 @@
+Segment,Customers,MedianRecencyDays,MedianInvoices,MedianGrossSpend,TotalGrossSpend,CustomerSharePct,GrossSpendSharePct
+"Less-recent, lower-frequency customers",2607,93.0,1.0,352.7,1265669.012,61.18282093405304,14.977723703385672
+"Recent, higher-value customers",1654,17.0,5.0,1975.62,7184673.891,38.81717906594696,85.02227629661432
