@@ -53,7 +53,7 @@ The platform helps users explore:
 
 ## 🏠 Home Dashboard
 
-[RetailPulse Home Dashboard](retailpulse_01_sales.jpg)
+![RetailPulse Home Dashboard](screenshots/retailpulse_01_sales.jpg)
 
 Explore historical gross merchandise purchase value, units sold, and daily sales trends using the date-range filter.
 
