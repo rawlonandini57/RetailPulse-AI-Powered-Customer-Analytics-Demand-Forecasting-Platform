@@ -57,11 +57,18 @@ The platform helps users explore:
 
 Explore historical gross merchandise purchase value, units sold, and daily sales trends using the date-range filter.
 
-![RetailPulse Sales Overview dashboard showing date filters, sales KPIs, and a daily sales chart](screenshots/retailpulse_01_sales.jpg)
+| Metric | Displayed value |
+|---|---:|
+| Date range | 1 December 2009 – 8 December 2011 |
+| Gross merchandise value | £19,501,557 |
+| Units sold | 11,127,909 |
+| Days shown | 738 |
+
+![RetailPulse Sales Overview dashboard showing date filters, sales KPIs, and a daily sales chart](screenshots/sales_overview.png)
 
 *Historical Online Retail II analysis. Monetary values are in GBP and represent gross merchandise purchases before returns.*
 
-<!-- Keep screenshots/retailpulse_01_sales.jpg in the repository root's screenshots folder so the relative image link renders on GitHub. -->
+<!-- Keep screenshots/sales_overview.png in the repository root's screenshots folder so the relative image link renders on GitHub. -->
 
 ## 🛠️ Technology Stack
 
