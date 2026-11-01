@@ -130,6 +130,47 @@ Keep the `data/processed/` folder structure intact. The dashboard does not requi
 
 There is no live ingestion service, online model training, or automated retraining in the current dashboard workflow.
 
+## 📁 Project Structure
+
+```text
+RetailPulse-AI-Powered-Customer-Analytics-Demand-Forecasting-Platform/
+├── .streamlit/
+│   └── config.toml
+├── data/
+│   └── processed/
+│       ├── churn_evaluation.csv
+│       ├── churn_metrics.csv
+│       ├── customer_segments.csv
+│       ├── daily_sales.csv
+│       ├── forecast_validation.csv
+│       ├── inventory_scenarios.csv
+│       ├── metadata.json
+│       ├── product_forecast_validation.csv
+│       ├── sales_forecast.csv
+│       └── segment_summary.csv
+├── notebooks/
+│   └── 01_data_exploration.ipynb
+├── screenshots/
+│   └── retailpulse_01_sales.jpg
+├── .gitignore
+├── app.py
+├── README.md
+└── requirements.txt
+```
+
+| File or folder | Purpose |
+|---|---|
+| `.streamlit/config.toml` | Dashboard theme configuration |
+| `data/processed/` | Prepared analytics outputs and metadata used by the dashboard |
+| `notebooks/` | Project analysis notebook |
+| `screenshots/` | Dashboard images used in the README |
+| `app.py` | Streamlit dashboard entry point |
+| `requirements.txt` | Dashboard Python dependencies |
+| `.gitignore` | Rules for excluding local and temporary files |
+| `README.md` | Project overview, results, and setup instructions |
+
+The dashboard loads prepared outputs from `data/processed/` without retraining models during use.
+
 ## ✅ Dashboard Checks
 
 Before sharing a new release, verify that all five pages load, date and segment filters update their outputs, downloads contain expected data, and inventory calculations respond correctly to both completed and cleared inputs.
