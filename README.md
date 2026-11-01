@@ -64,8 +64,6 @@ Explore historical gross merchandise purchase value, units sold, and daily sales
 | Units sold | 11,127,909 |
 | Days shown | 738 |
 
-![RetailPulse Home Dashboard showing date filters, sales KPIs, and a daily sales chart](screenshots/sales_overview.png)
-
 *Historical Online Retail II analysis. Monetary values are in GBP and represent gross merchandise purchases before returns.*
 
 <!-- Keep screenshots/sales_overview.png in the repository root's screenshots folder so the relative image link renders on GitHub. -->
